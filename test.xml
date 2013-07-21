@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<workers>
+  <worker id="AD01">
+    <name>Mark</name>
+    <sex>男</sex>
+    <status>经理</status>
+    <address>北京</address>
+    <money>4000</money>
+  </worker>
+</workers>
